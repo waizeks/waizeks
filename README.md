@@ -5,6 +5,20 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-<div align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIF_LINK.gif" width="600" alt="Banner" />
-</div>
+
+name: Update Pac-Man Graph
+
+on:
+  schedule:
+    - cron: '0 * * *' # Запускать каждый час
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate pacman graph
+        uses: DuyetBKU/viz-pacman-github-profile@main
+        with:
+          theme: github-dark # Можно поменять на github-light, dracula, react-dark
