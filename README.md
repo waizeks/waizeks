@@ -27,12 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizeks&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
 
----
-
-### 🔥 Мои проекты
-- [Проект 1](https://github.com/waizeks/nothing) — краткое описание
-- [Проект 2](https://github.com/waizeks/REPO2) — краткое описание
-- [Проект 3](https://github.com/waizeks/REPO3) — краткое описание
 
 ---
 
