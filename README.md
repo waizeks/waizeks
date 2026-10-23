@@ -1,62 +1,12 @@
-# Привет, я waizeks 👋
-
-### 👨‍💻 Обо мне
-- 🔭 Сейчас работаю над: **интересными проектами**
-- 🌱 Изучаю: **новые технологии**
-- 💬 Спроси меня о: **разработке, IT**
-- 📫 Как связаться: **укажите ваш email или Telegram**
-
----
-<!-- Вариант первый: Skill Icons (более единообразный) -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode" />
-  </a>
-</p>
-
-<!-- Вариант второй: анимированная бегущая строка (более динамичная, требует поддержки HTML) -->
-<!-- Обычно реализуется через SVG-анимацию, можно найти готовые шаблоны в godprofile-mcp или аналогичных проектах -->
-
----
-
-### 🛠️ Технологии и инструменты
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waizeks&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waizeks&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 🔥 Мои проекты
-- [Проект 1](https://github.com/waizeks) — краткое описание
-- [Проект 2](https://github.com/waizeks) — краткое описание
-- [Проект 3](https://github.com/waizeks) — краткое описание
-
----
-
-### 📫 Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш@email.com)
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=waizeks&fontSize=80" />
+  <img src="https://github-profile-trophy.vercel.app/?username=waizeks&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waizeks&theme=dark&hide_border=true" />
 </p>
 
-⭐️ From [waizeks](https://github.com/waizeks)
+<!-- Змейка требует настройки GitHub Action для генерации, см. инструкции в snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/waizeks/waizeks/output/snake-dark.svg" />
+</p>
