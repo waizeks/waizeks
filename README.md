@@ -18,15 +18,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
----
-
-### 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waizeks&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizeks&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</div>
-
 
 ---
 
